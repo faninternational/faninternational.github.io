@@ -2697,6 +2697,7 @@
 	 * @public
 	 * @todo Rename `slideBy` to `navBy`
 	 */
+	 
 	Navigation.Defaults = {
 		nav: false,
 		navRewind: true,
